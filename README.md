@@ -3,6 +3,7 @@
 
 <h3 align="center">I'm currently training with _nology in order to become a web developer..</h3>
 
+</br>
 
 <h4>Tech stack</h4>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -11,6 +12,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
+
+</br>
 
 <h4>Get in contact</h4>
 
