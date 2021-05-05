@@ -15,7 +15,7 @@
 
 </br>
 
-<h4 align="center">Get in contact</h4>
+<h4 align="center">Get in touch</h4>
 
 
 <a  href="https://github.com/dim4ik2911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
