@@ -11,3 +11,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dim4ik2911&" alt="dim4ik2911" /></p>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dim4ik2911)  
