@@ -4,7 +4,7 @@
 <h3 align="center">I'm currently training with _nology in order to become a web developer..</h3>
 
 <h4 align="center">Tech stack</h4>
-<p>
+<p align="center">
 <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
