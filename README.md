@@ -1,10 +1,3 @@
-<style>
-  img {
-  display: flex;
-
-</style>
-
-
 
 <h1 align="center">Hi 👋, I'm Dmitrijs</h1>
 
