@@ -23,5 +23,5 @@
 </p>
 <h4 align="center"Check my codepen</h4>
 <p align="center">
-<a  href="https://codepen.io/dim4ik2911"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a  href="https://codepen.io/dim4ik2911/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
