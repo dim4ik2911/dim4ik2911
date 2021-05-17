@@ -13,7 +13,7 @@
 </p>
                                                                                                               
 </br>
-<h4 align="center">Get in touch</h4>
+<h4 align="center">Get in touch/Read my blog/</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/dmitrijs-paklons-46359b166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -21,7 +21,7 @@
 <p align="center">
 <a  href="https://dim4ik2911.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
-<h4 align="center"Check my codepen</h4>
+<h4 align="center">Check my codepen</h4>
 <p align="center">
 <a  href="https://codepen.io/dim4ik2911/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
