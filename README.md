@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dmitrijs</h1>
 
-<h1 align="center">![7Sv8](https://user-images.githubusercontent.com/75121895/120080566-7505f080-c0b1-11eb-8848-ad5e160d5a99.gif)<h1>
+![7Sv8](https://user-images.githubusercontent.com/75121895/120080566-7505f080-c0b1-11eb-8848-ad5e160d5a99.gif)
 
 <h3 align="center">I'm currently training with _nology in order to become a web developer..</h3>
 
