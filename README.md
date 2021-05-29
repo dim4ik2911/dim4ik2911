@@ -25,4 +25,5 @@
 <p align="center">
 <a  href="https://codepen.io/dim4ik2911/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
-![7Sv8](https://user-images.githubusercontent.com/75121895/120080566-7505f080-c0b1-11eb-8848-ad5e160d5a99.gif)
+![7Sv8](https://user-images.githubusercontent.com/75121895/120080608-b39bab00-c0b1-11eb-80a9-3b324083840e.gif)
+
