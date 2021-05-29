@@ -25,5 +25,5 @@
 <p align="center">
 <a  href="https://codepen.io/dim4ik2911/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
-<div class="tenor-gif-embed" data-postid="16517329" data-share-method="host" data-width="100%" data-aspect-ratio="0.8674698795180724"><a href="https://tenor.com/view/dwight-kshrute-the-office-what-huh-make-face-gif-16517329">Dwight KShrute The Office GIF</a> from <a href="https://tenor.com/search/dwightkshrute-gifs">Dwightkshrute GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
