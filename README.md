@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm currently training with _nology in order to become a web developer..</h3>
 
-<h4><a href="https://dim4ik2911.github.io/portfolio">Check my portfolio</a></h4>
+<h4  align="center"><a href="https://dim4ik2911.github.io/portfolio">Check my portfolio</a></h4>
 
 <h4 align="center">Tech stack</h4>
 <p align="center">
