@@ -3,6 +3,8 @@
 
 <h3 align="center">I'm currently training with _nology in order to become a web developer..</h3>
 
+<h4><a href="https://dim4ik2911.github.io/portfolio">Check my portfolio</a></h4>
+
 <h4 align="center">Tech stack</h4>
 <p align="center">
 <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -19,5 +21,5 @@
 </p>
 
 
-<h4>My portfolio<a href="https://dim4ik2911.github.io/portfolio">is here</a></h4>
+
 
