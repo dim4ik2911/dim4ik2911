@@ -18,5 +18,6 @@
 <a href="https://www.linkedin.com/in/dmitrijs-paklons-46359b166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a  href="https://dim4ik2911.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
-
+<h4 align="center">My portfolio</h4>
+<a href="https://dim4ik2911.github.io/portfolio">My portfolio</a>
 
