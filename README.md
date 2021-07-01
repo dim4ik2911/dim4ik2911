@@ -14,10 +14,9 @@
 </p>
                                                                                                               
 </br>
-<h4 align="center">Get in touch / Read my blog</h4>
+<h4 align="center">Get in touc</h4>
 <p align="center">
-<a href="https://www.linkedin.com/in/dmitrijs-paklons-46359b166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a  href="https://dim4ik2911.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-</p>
+<a href="https://www.linkedin.com/in/dmitrijs-paklons-46359b166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
