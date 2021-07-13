@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dmitrijs and I am a Web Developer</h1>
 
-<h4  align="center"><a href="https://dim4ik2911.github.io/portfolio" target="_blank">Check my portfolio</a></h4>
+<h4  align="center"><a href="https://dim4ik2911.github.io/portfolio">Check my portfolio</a></h4>
 
 <h4 align="center">Tech stack</h4>
 <p align="center">
