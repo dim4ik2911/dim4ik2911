@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dmitrijs and I am a Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Dmitrijs and I am a Front-End Developer</h1>
 
 <h4  align="center"><a href="https://dim4ik2911.github.io/portfolio">Check my portfolio</a></h4>
 
